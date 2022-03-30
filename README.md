@@ -42,7 +42,7 @@ git clone [git-repo-url], далее читаем ниже
     Запустить файл gtasadown.sln
     Использовать
 ``````
-   [git-repo-url]: <https://github.com/Jeka345/peerstv.git>
+   [git-repo-url]: <https://github.com/Jeka345/gtasadown.git>
    [Evgeniy Zolotov]: <https://t.me/SmallVeins>
    [telegramdevchannel]: <https://t.me/devcm_jeka345old>
    [github-source-nogit]: <https://github.com/Jeka345/gtasadown>

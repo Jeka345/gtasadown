@@ -31,7 +31,7 @@ git clone [git-repo-url], далее читаем ниже
 
 ```sh
    cd gtasadown
-   start visual studio and open WpfApp1.SLN
+   start visual studio and open gtasadown.sln
 `````
 
 Установка исходного кода без использования GIT ONLY WINDOWS!
